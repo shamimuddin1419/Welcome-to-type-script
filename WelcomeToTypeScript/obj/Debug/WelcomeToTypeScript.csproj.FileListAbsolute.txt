@@ -1,0 +1,6 @@
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\bin\WelcomeToTypeScript.dll.config
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\bin\WelcomeToTypeScript.dll
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\bin\WelcomeToTypeScript.pdb
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\obj\Debug\WelcomeToTypeScript.csprojResolveAssemblyReference.cache
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\obj\Debug\WelcomeToTypeScript.dll
+E:\Writting\TypeScript\WelcomToTypeScript\WelcomeToTypeScript\WelcomeToTypeScript\obj\Debug\WelcomeToTypeScript.pdb
